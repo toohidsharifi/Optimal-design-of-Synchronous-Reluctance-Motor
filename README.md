@@ -8,8 +8,11 @@ x = (x_1,x_2,x_3,x_4)
 Where,
 
 x_1 = Inner radius of the stator yoke;
+
 x_2 = Turns per coil;
+
 x_3 = Inner radius of the rotor yoke;
+
 x_4 = Radius of the segmented parts of the rotor;
 
 We have the following constraints for the decision variables:
