@@ -16,4 +16,5 @@ High torque density is a demanding criterion in electrical machines. Machines wi
 
 ![Matlab-ANSYS](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/1c9e0098-444d-49bd-8635-2cbdfc7cd130)
 
+![Motor](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/cadd95f9-da3a-4c90-b735-1f372bece131)
 
