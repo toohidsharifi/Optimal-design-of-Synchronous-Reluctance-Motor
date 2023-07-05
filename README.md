@@ -9,4 +9,7 @@ High torque density is a demanding criterion in electrical machines. Machines wi
 5. If you want to know the difference between the initial and optimal designs of electric motors, this fill will help you.
 6. If you want to know the nuances of selecting decision variables and objective functions for a design optimization problem,
     this file will help you.
+   
 ![Torque performance](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/777204ab-ae6a-4753-bad9-9a8661b6aaaa)
+
+
