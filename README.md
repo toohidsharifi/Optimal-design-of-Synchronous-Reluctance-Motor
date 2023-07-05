@@ -17,9 +17,12 @@ x_4 = Radius of the segmented parts of the rotor;
 
 We have the following constraints for the decision variables:
 
-55 ≤ x_1 ≤ 58				
+55 ≤ x_1 ≤ 58	
+
 40 ≤ x_2 ≤ 60 (an integer in the interval)		
-10 ≤ x_3 ≤ 14			
+
+10 ≤ x_3 ≤ 14	
+
 34 ≤ x_4 ≤ 37           				 
 
 For objective function, we use the minimization form,
