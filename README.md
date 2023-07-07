@@ -47,9 +47,8 @@ Optimization problem: min⁡{Cost function}    @ s.t.Torque ripple<30%
 
 ![Matlab-ANSYS](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/1c9e0098-444d-49bd-8635-2cbdfc7cd130)
 
+In this project, the design and optimization of a SyncRel machine were conducted using the BBO algorithm. From various comparisons between the initial and the optimal motors, we concluded that the BBO algorithm shows effectiveness in optimizing the electrical machines. The necessity for less number of iterations and high convergence speed were the most valuable features of the BBO. As an important parameter, the number of function evaluations in the BBO is calculated.
+
 ![Motor](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/cadd95f9-da3a-4c90-b735-1f372bece131)
 
 ![BBO](https://github.com/toohidsharifi/Optimal-design-of-Synchronous-Reluctance-Motor/assets/126771405/77e019d2-abb8-47ec-bcdd-16dfb2ec728e)
-
-
-In this project, the design and optimization of a SyncRel machine were conducted using the BBO algorithm. From various comparisons between the initial and the optimal motors, we concluded that the BBO algorithm shows effectiveness in optimizing the electrical machines. The necessity for less number of iterations and high convergence speed were the most valuable features of the BBO. As an important parameter, the number of function evaluations in the BBO is calculated.
